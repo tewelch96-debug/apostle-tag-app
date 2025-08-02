@@ -63,7 +63,7 @@ const ApostleTagApp = () => {
     <div className="container">
       {tags.map(tag => (
  <div key={tag.id} className="card">
-          <h2>Apostle Tag #{tag.id}</h2>
+          <h2>Apostle Tag #{tag.id}🔥</h2>
           <input
             type="text"
             placeholder="Current Holder"
